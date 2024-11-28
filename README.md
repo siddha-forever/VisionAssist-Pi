@@ -54,3 +54,13 @@ Once photos have been captured:
 
 ---
 
+### Screenshots
+
+#### Real-time Image Capture
+![Face Recognition](1.png)
+
+#### Model Training
+![Obstacle Detection](6.png)
+
+#### Face Detection
+![Obstacle Detection](2.png)
