@@ -60,7 +60,7 @@ Once photos have been captured:
 ![Face Recognition](1.png)
 
 #### Model Training
-![Obstacle Detection](6.png)
+![Obstacle Detection](5.png)
 
 #### Face Detection
-![Obstacle Detection](2.png)
+![Obstacle Detection](2.jpeg)
